@@ -5,7 +5,7 @@ const perfil = {
   rol: "Estudiante de ing. en tecnología de software",
   descripcion:
     "Me gusta el clash royale, bring me the horizon, java y las bases de datos",
-  foto: "/badomens.jpg",
+  foto: "./badomens.jpg",
   email: "josearcoszet@gmail.com",
   github: "https://github.com/arcosjose",
 };
